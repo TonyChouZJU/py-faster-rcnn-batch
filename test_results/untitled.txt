@@ -1,0 +1,41 @@
+#test_size = 224
+Total Accuracy:  0.208583690987
+Total Average time:  0.0274382527721
+Total Count pos:  1.0
+
+blueberry: 0.6992
+pitahaya: 0.0229
+rambutan: 0.3636
+avocado: 0.2738
+grapefruit: 0.1377
+pomegranate: 0.0525
+grape: 0.3957
+papaya: 0.0579
+watermelon: 0.0188
+coconut: 0.0045
+cantaloup: 0.0286
+apple: 0.2948
+pomelo: 0.0000
+carambola: 0.0122
+apricot: 0.0868
+peach: 0.1156
+cherry: 0.7667
+banana: 0.0000
+pineapple: 0.1516
+strawberry: 0.3824
+plum: 0.0000
+mango: 0.0723
+kiwi: 0.2799
+mulberry: 0.2500
+mangosteen: 0.1469
+litchi: 0.0202
+blackberry: 0.0491
+lemon: 0.4743
+orange: 0.3358
+raspberry: 0.0393
+loquat: 0.0469
+durian: 0.2137
+pear: 0.0000
+passion_fruit: 0.2167
+nectarine: 0.0307
+bayberry: 0.0000

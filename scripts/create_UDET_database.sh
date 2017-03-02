@@ -1,0 +1,1 @@
+python tools/prepeocess_with_boxes.py --dataset UniqueDET --lo all
